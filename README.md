@@ -12,3 +12,10 @@ BigData, MapReduce, облачные вычисления, NoSQL. Все эти 
 
 ### Offered by
 [VK Team](https://vk.company/ru/company/education/)
+
+## Syllabus
+
+- MapReduce. Введение
+  - Hadoop Streaming
+- Решение задач с помощью MapReduce
+  - Алгоритмы на MapReduce
