@@ -1,5 +1,4 @@
-stepik_VK_Introduction_to_Programming_Cpp
-📓 Solutions to Stepik "Hadoop. Система для обработки больших объемов данных"
+stepik_VK_Hadoop
 
 ## About the course
 <p align="center"> 
@@ -19,3 +18,4 @@ BigData, MapReduce, облачные вычисления, NoSQL. Все эти 
   - Hadoop Streaming
 - Решение задач с помощью MapReduce
   - Алгоритмы на MapReduce
+  - Реляционные функции
